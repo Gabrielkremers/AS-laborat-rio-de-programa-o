@@ -1,0 +1,15 @@
+C:\Users\Gabriel Kremer\lpo\ASlaboratorio\bin\Debug\net7.0\ASlaboratorio.exe
+C:\Users\Gabriel Kremer\lpo\ASlaboratorio\bin\Debug\net7.0\ASlaboratorio.deps.json
+C:\Users\Gabriel Kremer\lpo\ASlaboratorio\bin\Debug\net7.0\ASlaboratorio.runtimeconfig.json
+C:\Users\Gabriel Kremer\lpo\ASlaboratorio\bin\Debug\net7.0\ASlaboratorio.dll
+C:\Users\Gabriel Kremer\lpo\ASlaboratorio\bin\Debug\net7.0\ASlaboratorio.pdb
+C:\Users\Gabriel Kremer\lpo\ASlaboratorio\obj\Debug\net7.0\ASlaboratorio.csproj.AssemblyReference.cache
+C:\Users\Gabriel Kremer\lpo\ASlaboratorio\obj\Debug\net7.0\ASlaboratorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Kremer\lpo\ASlaboratorio\obj\Debug\net7.0\ASlaboratorio.AssemblyInfoInputs.cache
+C:\Users\Gabriel Kremer\lpo\ASlaboratorio\obj\Debug\net7.0\ASlaboratorio.AssemblyInfo.cs
+C:\Users\Gabriel Kremer\lpo\ASlaboratorio\obj\Debug\net7.0\ASlaboratorio.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Kremer\lpo\ASlaboratorio\obj\Debug\net7.0\ASlaboratorio.dll
+C:\Users\Gabriel Kremer\lpo\ASlaboratorio\obj\Debug\net7.0\refint\ASlaboratorio.dll
+C:\Users\Gabriel Kremer\lpo\ASlaboratorio\obj\Debug\net7.0\ASlaboratorio.pdb
+C:\Users\Gabriel Kremer\lpo\ASlaboratorio\obj\Debug\net7.0\ASlaboratorio.genruntimeconfig.cache
+C:\Users\Gabriel Kremer\lpo\ASlaboratorio\obj\Debug\net7.0\ref\ASlaboratorio.dll
